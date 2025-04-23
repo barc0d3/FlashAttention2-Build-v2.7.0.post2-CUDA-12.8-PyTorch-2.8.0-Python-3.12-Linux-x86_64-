@@ -25,6 +25,6 @@ pip install pytorch_triton-3.3.0+git96316ce5-cp312-cp312-linux_x86_64.whl
 - [vLLM](https://github.com/vllm-project/vllm)
 - [Triton by OpenAI](https://github.com/openai/triton)
 
-## 📝otes
+## Notes
 
 This build is provided as-is for convenience and testing. Built in a clean environment to isolate PyTorch and NVIDIA dependencies for reuse across multiple projects.
